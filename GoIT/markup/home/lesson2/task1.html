@@ -3,8 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <title> Homework #2 Task1 </title>
+    <style>
+        code {
+            color: green;
+        }
+        samp {
+            color: maroon;
+        }
+        kbd {
+            font-weight: bold;
+        }
+        mark {
+            background: #ffec82;
+            padding: 0 3px;
+            border: 1px dashed #333;
+        }
+    </style>
 </head>
 <body>
+<p>Обозначить ошибку в тексте можно тегом <del>(по умолчанию он будет перечеркнут)</del> , а вставленный текст — тегом<br/>
+    <ins>(обозначается подчеркиванием)</ins>. Несмотря на то, что это строчные теги (не разрывают строки), внутри них допускается "br"
+    размещение блочных элементов.
+</p>
+<p><dfn>Бешенный конь</dfn> - термин, впервые определяемый в документе</p>
+<p><code>function checkParent (src, dest) {<Br>
+    while (src != null) {<Br>
+    if (src.tagName == dest) return src<Br>
+    src = src.parentElement<Br>
+    }<Br>
+    return null<Br>
+    }</code></p>
+<p><samp>В результате ничего - естественно ничего нет!</samp></p>
+<p>Для вызова диспетчера задач Windows можно воспользоваться комбинацией клавиш <mark><kbd>&lt;Alt&gt;+&lt;Ctrl&gt;+&lt;Delete&gt;</kbd></mark></p>
+<p>В данном примере делается запрос к базе данных для получения поля <var>main_title</var>
+    из таблицы <var>main.</var></p><br/>
+<p><em>Дэвид Духовны</em></p>
+<p><q>Если вас нет рядом, когда женщине плохо, то не приходите, когда ей хорошо.</q></p>
+<p><cite>http://citaty.info/man/devid-duhovny</cite></p>
+<p><address>Проще сказать, что мы расположены на краю света, чем объяснить человеку как к нам проехать.</address></p>
+<p><abbr title="File transfer protocol, протокол передачи файлов">FTP</abbr>
+    стандартный протокол, предназначенный для передачи файлов по TCP-сетям (например, Интернет).</p>
 
 </body>
 </html>

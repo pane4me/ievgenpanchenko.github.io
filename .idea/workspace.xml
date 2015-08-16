@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd11f07-7d55-42b6-a59f-f8facd292d0f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/markup/home/lesson3/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/markup/home/lesson3/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/markup/home/lesson3/task3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/markup/home/lesson3/task4.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoIT/markup/home/lesson2/task1.html" afterPath="$PROJECT_DIR$/GoIT/markup/home/lesson2/task1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoIT/markup/home/lesson2/task4.html" afterPath="$PROJECT_DIR$/GoIT/markup/home/lesson2/task4.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ievgenpanchenko.github.io.iws" />
@@ -25,41 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="task1.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="task1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.076923">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task4.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.543131">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -89,8 +62,11 @@
         <option value="$PROJECT_DIR$/GoIT/markup/class/lesson1/task4.html" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson2/task2.html" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson2/task3.html" />
-        <option value="$PROJECT_DIR$/GoIT/markup/home/lesson2/task1.html" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson2/task4.html" />
+        <option value="$PROJECT_DIR$/GoIT/markup/home/lesson3/task1.html" />
+        <option value="$PROJECT_DIR$/GoIT/markup/home/lesson3/task2.html" />
+        <option value="$PROJECT_DIR$/GoIT/markup/home/lesson3/task3.html" />
+        <option value="$PROJECT_DIR$/GoIT/markup/home/lesson2/task1.html" />
       </list>
     </option>
   </component>
@@ -184,10 +160,6 @@
               <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -208,6 +180,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -325,7 +301,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439755063000</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="6">
+      <created>1439761217484</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1439761217484</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -361,7 +343,8 @@
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -455,17 +438,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task1.html">
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769">
+        <state vertical-scroll-proportion="0.2172524">
           <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
           <folding />
         </state>
@@ -473,16 +456,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.076923">
+        <state vertical-scroll-proportion="0.543131">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task4.html">
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson3/task4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson3/task3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson3/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson3/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson2/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.543131">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding />
         </state>
       </provider>
