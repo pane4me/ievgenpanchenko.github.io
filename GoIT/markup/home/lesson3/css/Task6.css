@@ -1,1 +1,14 @@
-label
+span[class="red"]  {padding: 4px 8px; border-radius: 8px; color: white; background-color: red; }
+span[class="green"]  {padding: 4px 8px; border-radius: 8px; color: white; background-color: green; }
+span[class="blue"]  {padding: 4px 8px; border-radius: 8px; color: white; background-color: blue;}
+label {text-decoration-line: underline; }
+input[type="checkbox"] {display: none; }
+label[for="red"] {color: red;}
+#red:checked ~ label[for="red"] {color: burlywood; }
+#red:checked ~ span.red {display: none; }
+label[for="green"] {color: green; }
+#green:checked ~ label[for="green"] {color: burlywood; }
+#green:checked ~ span.green {display: none; }
+label[for="blue"] {color: blue; }
+#blue:checked ~ label[for="blue"] {color: burlywood; }
+#blue:checked ~ span.blue {display: none; }
