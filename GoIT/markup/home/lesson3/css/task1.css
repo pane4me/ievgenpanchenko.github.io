@@ -1,0 +1,12 @@
+h1 {color: orange; font-weight: bold; text-align: right; font-size: 30px; margin-right: 70px;  }
+p:first-letter { color: red; font-weight: bold; }
+em {background-color: green; color: white; }
+#allotment h2 {color: orange; }
+#allotment .fruits-list li {color: #cccccc; }
+#allotment .vegetables-list li {color: red; }
+#warehouse h2 {color: blue; }
+#warehouse .fruits-list li {color: green; }
+#warehouse .vegetables-list li {color: red; }
+.students-table thead tr {font-weight: bold; text-align: center; }
+.students-table tbody td:first-child {color: orange; }
+.students-table tbody td:nth-child(n+2) {background-color: green; color: white; text-align: center; }
