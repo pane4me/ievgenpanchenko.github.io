@@ -1,0 +1,15 @@
+span {
+    color: Menu;
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: impact, arial, sans-serif;
+    vertical-align: middle;
+    margin: 20px;
+}
+p {
+    background-color: blueviolet;
+    height: 40px;
+
+}
