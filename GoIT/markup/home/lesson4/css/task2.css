@@ -1,0 +1,23 @@
+div {
+    width: 900px;
+    height: 40px;
+    float: left;
+    background-color: #a954fe;
+    margin-left: 300px;
+}
+p:hover {
+    background-color: #eeeeee;
+    color: #a1a1a1;
+}
+#more {float: right;  }
+p {
+    float: left;
+    color: Menu;
+    width: 90px;
+    height: 20px;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: impact, arial, sans-serif;
+    cursor: pointer;
+}

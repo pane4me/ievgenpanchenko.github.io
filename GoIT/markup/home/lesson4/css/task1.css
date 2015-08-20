@@ -5,10 +5,9 @@ li {
     height: 20px;
     text-align: center;
     padding-top: 10px;
-    padding-bottom: 12px;
+    padding-bottom: 10px;
     text-transform: uppercase;
     font-family: impact, arial, sans-serif;
-    font-size: larger;
     cursor: pointer;
 }
 li:hover {
