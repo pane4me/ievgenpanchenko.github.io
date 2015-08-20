@@ -1,15 +1,23 @@
-span {
+li {
     color: Menu;
     display: inline-block;
-    width: 100px;
+    width: 90px;
+    height: 20px;
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 12px;
     text-transform: uppercase;
     font-family: impact, arial, sans-serif;
-    vertical-align: middle;
-    margin: 20px;
+    font-size: larger;
+    cursor: pointer;
 }
-p {
-    background-color: blueviolet;
-    height: 40px;
+li:hover {
+    background-color: #eeeeee;
+    color: #a1a1a1;
+}
+ul {
+    width: 900px;
+    background-color: #a954fe;
+    margin: auto;
+}
 
-}
