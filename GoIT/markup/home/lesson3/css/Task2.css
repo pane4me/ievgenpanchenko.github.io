@@ -1,2 +1,2 @@
-article p:first-child {font-size: larger; text-transform: uppercase; }
+article p:first-of-type {font-size: larger; text-transform: uppercase; }
 article p:last-child {color: red; }
