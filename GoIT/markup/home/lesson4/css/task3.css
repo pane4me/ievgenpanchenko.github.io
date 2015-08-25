@@ -1,0 +1,26 @@
+div
+{
+    background-color: whitesmoke;
+    width: 760px;
+    font-family: Economica bold, sans-serif;
+}
+li
+{
+    display: inline-block;
+    color: #a954fe;
+    text-transform: uppercase;
+    margin: 5px;
+    cursor: pointer;
+}
+.page_number
+{
+ border: solid 2px;
+    border-color: #cccccc;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.page_number:hover
+{
+    background-color: #a954fe;
+    color: white;
+}

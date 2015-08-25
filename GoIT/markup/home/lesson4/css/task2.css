@@ -3,12 +3,12 @@ div {
     height: 40px;
     float: left;
     background-color: #a954fe;
-    margin-left: 300px;
+    margin-left: 250px;
 }
 p:hover {
     background-color: #eeeeee;
     color: #a1a1a1;
-}
+    }
 #more {float: right;  }
 p {
     float: left;
