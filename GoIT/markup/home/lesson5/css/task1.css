@@ -1,0 +1,28 @@
+ul {
+    width: 900px;
+    background-color: darkturquoise;
+    margin: auto;
+    }
+li {
+    color: Menu;
+    display: inline-block;
+    width: 70px;
+    height: 20px;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-transform: uppercase;
+    font-family: impact, arial, sans-serif;
+    cursor: pointer;
+    }
+.larger {
+    width: 85px;
+}
+.second_line {
+    display: inline-block;
+
+}
+li:hover {
+        background-color: #eeeeee;
+        color: #a1a1a1;
+        }
