@@ -1,14 +1,14 @@
 #main
-    {
-    position: relative;
-    left: 550px;
-    top: 50px;
-    width: 300px;
-    height: 470px;
-    background-color: white;
-    border: solid 4px #ee8129;
-    border-radius: 7px;
-    }
+        {
+        position: relative;
+        left: 550px;
+        top: 50px;
+        width: 300px;
+        height: 470px;
+        background-color: white;
+        border: solid 4px #ee8129;
+        border-radius: 7px;
+        }
 #top_block
         {
         background-color: #ee8129;
@@ -38,6 +38,7 @@
         text-align: center;
         display: inline-block;
         margin-left: 80px;
+        padding-bottom: 10px;
         }
 #count
         {
@@ -64,19 +65,19 @@ ul li
         color: #91949c;
         width: 230px;
         font-size: 12pt;
-        font-family: Economica, sans-serif;
+        font-family: Economica bold, sans-serif;
         list-style-image: url(../images/bullet.png);
         border: solid 1px white;
         }
 ul li:before {}
 ul li:nth-child(odd)
         {
-        padding: 5px 1px;
+        padding: 6px 1px;
         background-color: #edf5fd;
         }
 ul li:nth-child(even)
         {
-        padding: 5px 1px;
+        padding: 6px 1px;
         background-color: #f5f5f6;
         }
 button {
@@ -90,5 +91,9 @@ button {
         font-weight: bold;
         font-size: 12pt;
         font-family: Economica, sans-serif;
-
-}
+        }
+button:hover
+        {
+        border-bottom: hidden;
+        cursor: pointer;
+        }
