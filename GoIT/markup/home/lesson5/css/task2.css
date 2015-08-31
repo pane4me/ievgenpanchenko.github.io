@@ -54,22 +54,24 @@
         top: -33px;
         right: 5px;
         }
-#month {
+#month
+        {
         font-family: Economica bold, sans-serif;
         font-size: 13pt;
         position: relative;
         bottom: -5px;
-}
+        }
 ul li
         {
         color: #91949c;
-        width: 230px;
         font-size: 12pt;
         font-family: Economica bold, sans-serif;
         list-style-image: url(../images/bullet.png);
+        list-style-position: inside;
         border: solid 1px white;
+        margin-right: 15px;
+        margin-left: -25px;
         }
-ul li:before {}
 ul li:nth-child(odd)
         {
         padding: 6px 1px;
