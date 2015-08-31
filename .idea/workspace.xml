@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd11f07-7d55-42b6-a59f-f8facd292d0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/markup/home/lesson6/images/bullet.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ievgenpanchenko.github.io.iws" />
@@ -479,7 +478,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441032556949</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="222">
+      <created>1441032606265</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1441032606265</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
