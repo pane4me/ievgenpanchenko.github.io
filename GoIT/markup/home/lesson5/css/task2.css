@@ -1,17 +1,17 @@
 #main
     {
-    position: absolute;
+    position: relative;
     left: 550px;
     top: 50px;
     width: 300px;
-    height: 480px;
+    height: 470px;
     background-color: white;
-    border: solid 4px orange;
+    border: solid 4px #ee8129;
     border-radius: 7px;
     }
 #top_block
         {
-        background-color: orange;
+        background-color: #ee8129;
         color: white;
         text-transform: uppercase;
         font-weight: bold;
@@ -30,20 +30,57 @@
         text-align: center;
         padding: 20px;
         }
-#price
+.price
         {
         background-color: white;
-        color: #333333;
-        font-family: Economica, sans-serif;
+        color: #35495a;
+        font-family: Economica bold, sans-serif;
         text-align: center;
+        display: inline-block;
+        margin-left: 80px;
         }
-#table
+#count
         {
-        padding: 15px;
+        font-family: Economica bold, sans-serif;
+        font-size: 48pt;
 
         }
+#dollar
+        {
+        font-family: Economica bold, sans-serif;
+        font-size: 16pt;
+        position: relative;
+        top: -33px;
+        right: 5px;
+        }
+#month {
+        font-family: Economica bold, sans-serif;
+        font-size: 13pt;
+        position: relative;
+        bottom: -5px;
+}
+ul li
+        {
+        color: #91949c;
+        width: 230px;
+        font-size: 12pt;
+        font-family: Economica, sans-serif;
+        list-style-image: url(../images/bullet.png);
+        border: solid 1px white;
+        }
+ul li:before {}
+ul li:nth-child(odd)
+        {
+        padding: 5px 1px;
+        background-color: #edf5fd;
+        }
+ul li:nth-child(even)
+        {
+        padding: 5px 1px;
+        background-color: #f5f5f6;
+        }
 button {
-        background-color: orange;
+        background-color: #ee8129;
         text-transform: uppercase;
         color: white;
         padding: 10px 60px;
