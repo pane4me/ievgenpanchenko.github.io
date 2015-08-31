@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd11f07-7d55-42b6-a59f-f8facd292d0f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task1.css" afterPath="$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task1.html" afterPath="$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ievgenpanchenko.github.io.iws" />
@@ -23,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="task2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task2.html">
+      <file leaf-file-name="task1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.230769">
-              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.30699775">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task2.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task2.css">
+      <file leaf-file-name="task1.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.6247334">
-              <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -97,14 +99,14 @@
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson4/css/task2.css" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson4/html/task3.html" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson4/css/task3.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task1.css" />
-        <option value="$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task1.html" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson6/css/task1.css" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson6/css/task2.css" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson6/html/task1.html" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson6/html/task2.html" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task2.html" />
         <option value="$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task2.css" />
+        <option value="$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task1.html" />
+        <option value="$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task1.css" />
       </list>
     </option>
   </component>
@@ -197,12 +199,30 @@
               <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson6" />
+              <option name="myItemId" value="ievgenpanchenko.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pane4me.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="GoIT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="markup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -228,29 +248,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ievgenpanchenko.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pane4me.github.io" />
+              <option name="myItemId" value="lesson4" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GoIT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="markup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -484,14 +486,20 @@
       <option name="project" value="LOCAL" />
       <updated>1441032606265</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="222">
+      <created>1441032615816</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1441032615816</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.4919708" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35202086" sideWeight="0.5080292" order="11" side_tool="true" content_ui="tabs" />
@@ -557,6 +565,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -742,38 +751,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson4/html/task3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5409091">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson4/html/task1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19318181">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson4/css/task1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="0" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8025751">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19318181">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -894,18 +875,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7249467">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.230769">
+        <state vertical-scroll-proportion="0.48307">
           <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task2.css">
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson4/html/task3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.6247334">
-          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.3476298">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson4/css/task1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/css/task1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoIT/markup/home/lesson5/html/task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30699775">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>

@@ -1,6 +1,6 @@
 ul {
     width: 900px;
-    background-color: darkturquoise;
+    background-color: #1aa4ff;
     margin: auto;
     }
 li {
@@ -16,13 +16,21 @@ li {
     cursor: pointer;
     }
 .larger {
-    width: 85px;
-}
-.second_line {
-    display: inline-block;
-
-}
+        width: 85px;
+        }
+.second_line
+    {
+    visibility: hidden;
+    display: none;
+    }
 li:hover {
         background-color: #eeeeee;
-        color: #a1a1a1;
-        }
+        color: #a0a0a0;
+        visibility: visible;
+        display: inline-block;
+        --position: absolute;
+        --left: 330px;
+
+}
+
+
