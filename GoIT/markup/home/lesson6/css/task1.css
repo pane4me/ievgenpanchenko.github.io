@@ -13,6 +13,7 @@ h1
     background-color: white;
     border: solid 4px #ee8129;
     border-radius: 7px;
+    box-shadow: -1px 2px 2px 2px #edf5fd;
     }
 .left-right-block
     {
@@ -21,6 +22,7 @@ h1
     background-color: white;
     border: solid 2px #e8eaec;
     border-radius: 7px;
+    box-shadow: 1px 2px 2px 2px #edf5fd;
     }
 #first_block
     {
@@ -57,6 +59,7 @@ h1
 #top_right_block
     {
     background-color: #1cb79a;
+    border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     padding: 23px;
     }
