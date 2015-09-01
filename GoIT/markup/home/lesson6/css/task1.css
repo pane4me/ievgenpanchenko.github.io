@@ -137,10 +137,12 @@ button {
 .button
     {
     background-color: #3371a6;
+    border-bottom-color: #16436a;
     }
 #b1
     {
     background-color: #ec8136;
+    border-bottom-color: #b1561b;
     }
 button:hover
     {
