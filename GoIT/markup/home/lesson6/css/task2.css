@@ -1,0 +1,57 @@
+body
+        {
+        font-family: Trebuchet MS, sans-serif;
+        }
+.reviews
+        {
+        background-color: #0f1923;
+        width: 1400px;
+        height: 315px;
+        }
+h2
+        {
+        text-transform: uppercase;
+        text-align: center;
+        color: #3170a8;
+        padding: 25px;
+        font-size: 24pt;
+        }
+h2 a:first-child
+        {
+        color: #ee8129;
+        }
+.left_col, .right_col
+        {
+        display: inline-block;
+        border: solid 2px;
+        color: red;
+        }
+img, .block {display: inline-block}
+.block
+        {
+        background-color: white;
+        width: 360px;
+        min-height: 100px;
+        --margin-left: 150px;
+        }
+h4
+        {
+        height: 100%;
+        color: #3070a8;
+        font-style: italic;
+        padding-left: 10px;
+        padding-right: 10px;
+        }
+h4 a:first-child
+        {
+        float: left;
+        }
+h4 a:last-child
+        {
+        float: right;
+        }
+.block_header
+        {
+        border-bottom-style: dashed;
+        border-bottom-color: #666666;
+        }
