@@ -1,22 +1,37 @@
+#full_block
+    {
+    position: fixed;
+    left: 15%;
+    height: 600px;
+    }
 h1
     {
+    position: relative;
     text-transform: uppercase;
     color: #41525c;
     font-family: arial, sans-serif;
+    font-size: 20pt;
+    margin-left: 100px;
+    margin-right: 100px;
+    white-space: nowrap;
     }
 #main1
     {
-    position: fixed;
-    left: 19%;
+    position: relative;
+    z-index: 2;
+    left: 340px;
+    bottom: 460px;
     width: 300px;
     height: 470px;
     background-color: white;
     border: solid 4px #ee8129;
     border-radius: 7px;
-    box-shadow: -1px 2px 2px 2px #edf5fd;
+    box-shadow: 0 0 5px;
+
     }
 .left-right-block
     {
+    z-index: 1;
     width: 300px;
     height: 440px;
     background-color: white;
@@ -26,13 +41,15 @@ h1
     }
 #first_block
     {
-    position: fixed;
+    position: relative;
+    left: 40px;
     margin-top: 10px;
     }
 #third_block
     {
-    position: absolute;
-    left: 38%;
+    position: relative;
+    bottom: 932px;
+    left: 645px;
     margin-top: 10px;
     }
 .top_block
@@ -108,7 +125,7 @@ ul li
 {
     color: #91949c;
     font-size: 12pt;
-    font-family: Economica bold, sans-serif;
+    font-family: Economica Bold, sans-serif;
     list-style-image: url(../images/bullet.png);
     list-style-position: inside;
     border: solid 1px white;
