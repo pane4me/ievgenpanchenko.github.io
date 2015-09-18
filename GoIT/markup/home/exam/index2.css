@@ -1,0 +1,194 @@
+body
+        {
+        background-color: #f8f8f8;
+        width: 1200px;
+        height: 1500px;
+        }
+.main
+        {
+        position: absolute;
+        top: 60px;
+        left: 114px;
+        right: 113px;
+        width: 970px;
+        height: 1380px;
+        background-color: #ffffff;
+        border: solid 2px #f2f2f2;
+        }
+.header
+        {
+        position: relative;
+        left: 20px;
+        top: 10px;
+        --border: solid red;
+        border-bottom: solid 1px #e5e5e5;
+        margin-right: 40px;
+        height: 393px;
+        }
+.logo
+        {
+        position: absolute;
+        left: 10px;
+        top: 15px;
+        font-family: arial, sans-serif;
+        font-size: 8pt;
+        --border: solid blue;
+        width: 220px;
+        }
+#logo
+        {
+        position: relative;
+        top: -40px;
+        font-family: Oleo Script, sans-serif;
+        font-size: 30pt;
+        --border: solid black;
+        }
+#logo2
+        {
+        position: relative;
+        top: -100px;
+        left: 5px;
+        color: #999999;
+        }
+.navigation
+        {
+        --border: solid red;
+        width: 540px;
+        position: absolute;
+        right: 5px;
+        top: 20px;
+        }
+.menu
+        {
+        width: 400px;
+        font-family: Oxygen, sans-serif;
+        font-size: 10pt;
+        color: #666666;
+        --border: solid blue;
+        }
+li
+        {
+        margin-right: 40px;
+        }
+ul li
+        {
+        display: inline-block;
+        }
+.menu, button
+        {
+        display: inline-block;
+        }
+button
+        {
+        width: 85px;
+        height: 30px;
+        background-color: #ffc551;
+        color: #ffffff;
+        border: none;
+        border-radius: 5px;
+        font-size: 11pt;
+        }
+ul li:hover, button:hover
+        {
+        color: black;
+        font-weight: 500;
+        cursor: pointer;
+        }
+.hero
+        {
+        position: absolute;
+        left: 55px;
+        bottom: 60px;
+        width: 820px;
+        height: 210px;
+        --border: solid red;
+        }
+.box_picture
+        {
+        width: 300px;
+        height: 200px;
+        background-color: #f2f2f2;
+        }
+.forward
+        {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 440px;
+        height: 200px;
+        --background-color: #f2f2f2;
+        font-family: Oxygen, sans-serif;
+        font-size: 10pt;
+        color: #515151;
+        --border: solid 1px yellow;
+        }
+#spider
+        {
+        position: absolute;
+        left: 0;
+        top: 5px;
+        --border: solid 1px red;
+        font-size: 28pt;
+        }
+#spider_text
+        {
+        position: absolute;
+        left: 23px;
+        top: 60px;
+        --border: solid 1px blue;
+        text-align: right;
+        }
+.forward_button
+        {
+        background-color: #ffbb43;
+        width: 170px;
+        height: 42px;
+        position: absolute;
+        right: 19px;
+        bottom: 32px;
+        border-radius: 5px;
+        }
+.left_part_button span
+        {
+        position: absolute;
+        top: 3px;
+        left: 8px;
+        font-family: Oxygen, sans-serif;
+        font-size: 12pt;
+        color: #ffffff;
+        }
+.left_part_button a
+        {
+        position: relative;
+        top: -2px;
+        left: 8px;
+        font-family: Arial, sans-serif;
+        font-size: 8pt;
+        color: #d28600;
+        text-transform: uppercase;
+        }
+.left_part_button
+        {
+        margin-top: 4px;
+        width: 125px;
+        border-right: solid 2px #ffad36;
+        }
+.right_part_button
+        {
+        position: absolute;
+        top: 4px;
+        width: 38px;
+        height: 28px;
+        padding-bottom: 5px;
+        border-left: solid 2px #ffc65d;
+        }
+.forward_button img
+        {
+        position: absolute;
+        top: 7px;
+        right: 13px;
+        }
+.left_part_button, .right_part_button
+        {
+        display: inline-block;
+        }
