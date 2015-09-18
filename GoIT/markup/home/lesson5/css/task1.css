@@ -1,9 +1,11 @@
-ul {
-    width: 900px;
-    background-color: #1aa4ff;
-    margin: auto;
-    }
-li {
+.menu
+        {
+        width: 900px;
+        background-color: #1aa4ff;
+        margin: auto;
+        }
+.first_line
+    {
     color: Menu;
     display: inline-block;
     width: 70px;
@@ -19,18 +21,13 @@ li {
         width: 85px;
         }
 .second_line
-    {
-    visibility: hidden;
-    display: none;
-    }
-li:hover {
-        background-color: #eeeeee;
-        color: #a0a0a0;
-        visibility: visible;
-        display: inline-block;
-        --position: absolute;
-        --left: 330px;
-
-}
-
+            {
+            display: none;
+            visibility: hidden;
+            }
+.first_line:hover ul
+            {
+            display: inline-flex;
+            visibility: visible;
+            }
 
