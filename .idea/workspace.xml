@@ -491,7 +491,13 @@
       <option name="project" value="LOCAL" />
       <updated>1442557190797</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Домашка 5.1(корректировано)">
+      <created>1442587187941</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1442587187941</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
