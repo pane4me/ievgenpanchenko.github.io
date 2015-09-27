@@ -256,6 +256,7 @@ ul li:hover, button:hover
         }
 .mid_content_block a
         {
+        border-top: none;
         padding-left: 8px;
         font-size: 9pt;
         font-family: Arial, sans-serif;
@@ -272,7 +273,6 @@ ul li:hover, button:hover
         background-color: white;
         border: solid 1px #f1f1f1;
         border-bottom: dashed 10px #d8d8d8;
-        border-top: none;
         }
 .foot_text_block p
         {
@@ -294,4 +294,136 @@ ul li:hover, button:hover
         {
         background-color: #ffe7b9;
         color: #d0982e;
+        }
+.tabs
+        {
+        position: relative;
+        left: 20px;
+        top: 10px;
+        --border: solid 1px blue;
+        border-bottom: solid 1px #e5e5e5;
+        margin-right: 40px;
+        height: 268px;
+        }
+.footer
+        {
+        position: relative;
+        left: 20px;
+        top: 10px;
+        --border: solid 1px blue;
+        margin-right: 40px;
+        height: 230px;
+        }
+.footer_block
+        {
+        position: absolute;
+        top: 0;
+        left: 0;
+        --border: solid 1px yellow;
+        width: 200px;
+        height: 220px;
+        display: inline-block;
+        }
+.footer_block p
+        {
+        position: absolute;
+        top: 0;
+        left: 1px;
+        color: #ffad19;
+        text-transform: uppercase;
+        font-size: 11pt;
+        }
+.table
+        {
+        position: absolute;
+        left: 0;
+        top: 40px;
+        --border: solid 1px green;
+        max-height: 180px;
+        width: 195px;
+        font-family: Arial, sans-serif;
+        font-size: 10pt;
+        text-align: left;
+        }
+table
+        {
+        width: 195px;
+        }
+th
+        {
+        font-weight: 400;
+        height: 25px;
+        color: #666666;
+        border-bottom: solid 1px #e5e5e5;
+        }
+.last_row
+        {
+        border-bottom: none;
+        }
+#fb2
+        {
+        position: absolute;
+        top: 0;
+        left: 240px;
+        width: 220px;
+        }
+#fb2 table
+        {
+        width: 215px;
+        }
+#fb3
+        {
+        position: absolute;
+        top: 0;
+        left: 480px;
+        width: 440px;
+        }
+#fb3 table
+        {
+        width: 440px;
+        }
+#fb3 th
+        {
+        height: 50px;
+        }
+.pre
+        {
+        margin-left: 30px;
+        }
+#table3
+        {
+        position: absolute;
+        top: 36px;
+        }
+.foot_small_text
+        {
+        font-size: 8pt;
+        color: #aaaaaa;
+        }
+.bul1
+        {
+        position: absolute;
+        top: 11px;
+        left: 0;
+        }
+.bul2
+        {
+        position: absolute;
+        top: 59px;
+        left: 0;
+        }
+.bul3
+        {
+        position: absolute;
+        bottom: 29px;
+        left: 0;
+        }
+.footer_line
+        {
+        position: relative;
+        top: 10px;
+        border-bottom: solid 2px #f2f2f2;
+        border-top: solid 1px #f2f2f2;
+        height: 4px;
+
         }
