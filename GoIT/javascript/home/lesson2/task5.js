@@ -1,3 +1,3 @@
-/**
- * Created by Анюта on 13.10.2015.
- */
+var name = 'admin';
+var text = (name == 'admin') ? 'Hi' : (name == 'manager') ? 'Hello' : (name === '') ? 'No login' : '';
+console.log(text);

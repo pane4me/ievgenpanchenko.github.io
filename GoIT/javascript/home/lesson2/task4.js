@@ -1,3 +1,4 @@
-/**
- * Created by Анюта on 13.10.2015.
- */
+var c;
+var a = 1, b = 2;
+c = (a + b >= 3) ? 'Yep!' : 'Noup!';
+console.log(c);
