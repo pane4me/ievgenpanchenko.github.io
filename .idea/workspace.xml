@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd11f07-7d55-42b6-a59f-f8facd292d0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/javascript/home/lesson4/task1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT/javascript/home/lesson4/task2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task1.html" afterPath="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task4.html" afterPath="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task5.html" afterPath="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task5.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ievgenpanchenko.github.io.iws" />
@@ -24,18 +25,7 @@
     <favorites_list name="ievgenpanchenko.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="task1.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson4/task1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35051546">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,14 +88,14 @@
         <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson2/task5.js" />
         <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson1/task3.html" />
         <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson2/task2.html" />
-        <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task1.html" />
         <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task3.html" />
-        <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task4.html" />
-        <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task5.html" />
         <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task6.html" />
         <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task2.html" />
         <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson4/task1.html" />
         <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson4/task2.html" />
+        <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task1.html" />
+        <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task4.html" />
+        <option value="$PROJECT_DIR$/GoIT/javascript/home/lesson3/task5.html" />
       </list>
     </option>
   </component>
@@ -583,14 +573,20 @@
       <option name="project" value="LOCAL" />
       <updated>1445168491945</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="JS Homework 4.1">
+      <created>1445193077100</created>
+      <option name="number" value="00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1445193077100</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.4919708" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32704404" sideWeight="0.513125" order="11" side_tool="true" content_ui="tabs" />
@@ -622,7 +618,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="5" />
@@ -647,7 +642,8 @@
     <MESSAGE value="JS Homework 1.3 исправлено(вроде бы)" />
     <MESSAGE value="JS Homework 3 - готово всё, кроме 2го задания" />
     <MESSAGE value="JS Homework 3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Homework 3.2" />
+    <MESSAGE value="JS Homework 4.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Homework 4.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -955,10 +951,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson3/task3.html">
+    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson4/task2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23367697">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -966,20 +963,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4089347">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson3/task4.html">
+    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson4/task1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4089347">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.35051546">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson3/task5.html">
+    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson3/task1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23367697">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.46735394">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -991,26 +991,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson3/task1.html">
+    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson3/task4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23367697">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.7302405">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson4/task2.html">
+    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson3/task3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23367697">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson4/task1.html">
+    <entry file="file://$PROJECT_DIR$/GoIT/javascript/home/lesson3/task5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35051546">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.7010309">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding />
         </state>
       </provider>

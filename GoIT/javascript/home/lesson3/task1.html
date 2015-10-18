@@ -6,12 +6,14 @@
 </head>
 <body>
 <script>
-    var userNumber=1, myNumber=101;
-    while(userNumber <= myNumber)
+    var userNumber;
+    while(true)
     {
-        if (userNumber === null)
-        break;
-        else userNumber = prompt('Vvedite chislo bolshe sta:');
+        userNumber = prompt('Vvedite chislo bolshe sta:');
+        if (userNumber === null || userNumber >100)
+        {
+            break;
+        }
     }
 </script>
 </body>

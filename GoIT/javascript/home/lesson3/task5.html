@@ -6,7 +6,28 @@
 </head>
 <body>
 <script>
-
+    var deskSize = 8, desk = '', i = 1;
+    function printLine (sign, number)
+    {
+        for(var j = 1; j <= number; j++)
+        {
+            desk += sign;
+        }
+        desk += '\n';
+    }
+    while(i <= deskSize)
+    {
+        if(i % 2 !== 0)
+        {
+            printLine ('# ', deskSize/2);
+        }
+        else
+        {
+            printLine (' #', deskSize/2);
+        }
+        i++;
+    }
+    alert(desk);
 </script>
 </body>
 </html>
