@@ -6,7 +6,20 @@
 </head>
 <body>
 <script>
-
+    function checkSpam(message)
+    {
+        if(message.indexOf('sex' || 'spam'))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+    console.log(checkSpam('get new sex videos'));
+    console.log(checkSpam('[SPAM] How to earn fast money?'));
+    console.log(checkSpam('New PSD template'));
 </script>
 </body>
 </html>
